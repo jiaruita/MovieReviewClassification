@@ -1,0 +1,16 @@
+code description:
+
+classifier.py
+contains Naive Bayes classifier
+evaluation function
+start the program using function run()
+should run under the same directory as the fold movie_test, and movie_train, 
+and there should be fold neg, and pos under movie_test and movie_train
+
+pick.py
+imported by classifier.py
+used to generate keywords from term frequency record files
+
+tf.py
+used to calculate term frequency
+should run under the same directory as review files
